@@ -53,3 +53,17 @@ h1 {
     background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1));
     border: 1px solid #666;
 }
+
+nav li:active {
+    background-color: #ccc;
+    background-image: none;
+    box-shadow: inset 0 3px 3px rgba(0,0,0,.2);
+}
+
+footer {
+    font-family: 'Segoe UI';
+    font-weight: normal condensed;
+    color: lightslategray; 
+    font-size: small;
+    padding:3px;
+}
