@@ -1,0 +1,21 @@
+header {
+    font-family: Futura, Trebuchet MS;
+    font-weight: bold condensed;
+    color: #AC2B37; 
+    font-size: 25px;
+}
+
+body {
+    font-family:  'Segoe UI';
+    font-weight: normal;
+    color: palevioletred;
+    font-size: large;
+}
+
+h1 {
+    font-family:  'Segoe UI';
+    font-weight: bold;
+    color: skyblue;
+    font-size: x-large;
+}
+
